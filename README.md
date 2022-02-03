@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Depo
 Bu repo [Kodluyoruz]() Front-End Eğitiminde Oluşturduğumuz il repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Proje İmages]()
+![Proje İmages](https://github.com/osmanhorasan/kodluyoruzilkrepo/blob/main/sda.PNG)
 
 ## Installation
 
